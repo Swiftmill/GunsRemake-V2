@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log*
+.DS_Store
+backend/.sessions
+backend/.tmp
+backend/npm-debug.log*
+/data/guns/assets/*
+!/data/guns/assets/.gitkeep
+/data/guns/backups/*
+!/data/guns/backups/.gitkeep
+/data/guns/.sessions

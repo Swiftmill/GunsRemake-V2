@@ -1,0 +1,31 @@
+{
+  "username": "swift",
+  "sections": [
+    {
+      "title": "About",
+      "content": "Building blazing fast bio pages."
+    }
+  ],
+  "badges": [
+    "founder",
+    "verified"
+  ],
+  "links": [
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/swift"
+    },
+    {
+      "label": "Soundcloud",
+      "url": "https://soundcloud.com/swift"
+    }
+  ],
+  "gallery": [],
+  "theme": "neon-night",
+  "background": null,
+  "audio": null,
+  "avatar": null,
+  "createdAt": "2025-10-21T09:37:41.216Z",
+  "updatedAt": "2025-10-21T09:37:41.500Z",
+  "bio": "full-stack dev • synthwave enjoyer"
+}

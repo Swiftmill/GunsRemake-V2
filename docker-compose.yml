@@ -1,0 +1,13 @@
+version: '3.9'
+services:
+  guns:
+    build: .
+    ports:
+      - "3001:3001"
+    environment:
+      - PORT=3001
+      - HOST=0.0.0.0
+      - GUNS_DATA_DIR=/data/guns
+    volumes:
+      - ./data/guns:/data/guns
+    command: ["npm", "start"]
