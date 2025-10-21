@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "username": "swift",
+      "displayName": "Swift",
+      "passwordHash": "0f1bc746970327e054efe6839f5c901d:5fdd3b52029a2ecbb35bd5143fee499f57e09aef6c749018e2dba09c8ac690a9eba0c4f3ac40c663120c2ac6d37ec04d98150a5a29d56ddd2663cf5c5f951d05",
+      "roles": [
+        "user"
+      ],
+      "quotaMb": 200,
+      "usedBytes": 0,
+      "createdAt": "2025-10-21T09:37:41.208Z"
+    },
+    {
+      "username": "moh",
+      "displayName": "Moh",
+      "passwordHash": "f403422353887b7d4f2da2abcf61c3c1:7468843758adb4ff6cc99097035798f6068c01d94436d66567ffd4a14b6bcfbad3d8c8f1d0b6ffd68c4d90b81aacac739b61cd5788757da38989cea31b09e55f",
+      "roles": [
+        "user"
+      ],
+      "quotaMb": 200,
+      "usedBytes": 0,
+      "createdAt": "2025-10-21T09:37:41.347Z"
+    },
+    {
+      "username": "hris",
+      "displayName": "Hris",
+      "passwordHash": "cf673b99730c8be06328b49dcf8e9a03:8f6da763620935b7ae795d09f406ecd1ac37eec531c13b575626c9b50577c7db6d0b8a83dfde801e0dd0d0d80b791468e68bf737b9798fb468892ba4047c3e53",
+      "roles": [
+        "user"
+      ],
+      "quotaMb": 200,
+      "usedBytes": 0,
+      "createdAt": "2025-10-21T09:37:41.420Z"
+    },
+    {
+      "username": "admin",
+      "displayName": "Administrator",
+      "passwordHash": "58048fcc7c32b089fa45c1c26eb0a022:1ce544f4b88dcda86f562319cbb5e02de59cfdcc488d3e95e2e620c5259aa612ea357c2c2842da642e4431fb42888eae04c6a3d27b6457061f49708ea4dcc341",
+      "roles": [
+        "admin"
+      ],
+      "quotaMb": 500,
+      "usedBytes": 0,
+      "createdAt": "2025-10-21T09:37:41.490Z"
+    }
+  ]
+}

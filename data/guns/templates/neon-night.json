@@ -1,0 +1,18 @@
+{
+  "id": "neon-night",
+  "label": "Neon Night",
+  "colors": {
+    "background": "#0b061b",
+    "panel": "#1a1433",
+    "accent": "#7b5dff",
+    "text": "#f7f4ff"
+  },
+  "fonts": {
+    "heading": "Poppins",
+    "body": "Inter"
+  },
+  "effects": {
+    "blur": 24,
+    "gradient": true
+  }
+}
