@@ -1,0 +1,15 @@
+{
+  "name": "guns-backend",
+  "version": "1.0.0",
+  "description": "File-based backend for guns.lol style link-in-bio",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "seed": "node src/seed.js",
+    "lint": "node src/scripts/lint.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

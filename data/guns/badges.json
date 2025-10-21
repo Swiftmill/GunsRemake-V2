@@ -1,0 +1,28 @@
+{
+  "badges": [
+    {
+      "id": "founder",
+      "label": "Founder",
+      "icon": "★",
+      "createdAt": "2025-10-21T09:37:41.508Z"
+    },
+    {
+      "id": "verified",
+      "label": "Verified",
+      "icon": "✔",
+      "createdAt": "2025-10-21T09:37:41.510Z"
+    },
+    {
+      "id": "mod",
+      "label": "Moderator",
+      "icon": "🛡",
+      "createdAt": "2025-10-21T09:37:41.512Z"
+    },
+    {
+      "id": "vip",
+      "label": "VIP",
+      "icon": "💎",
+      "createdAt": "2025-10-21T09:37:41.514Z"
+    }
+  ]
+}
